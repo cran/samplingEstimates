@@ -1,0 +1,12 @@
+version 0.1-2 2013-11-28
+
+    Now allowing on-screen results for domain estimation.
+    Extended reference manual with more details and more examples.
+    A sorting in the stratification variables is no longer needed (see the examples).
+    Strata (and domains) labels can be strings (see the examples).
+    Some arguments' names were changed (see details and examples in the reference manual).
+
+version 0.1-1 2013-07-24
+
+    First release.
+

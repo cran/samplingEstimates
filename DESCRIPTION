@@ -1,6 +1,6 @@
 Package: samplingEstimates
-Version: 0.1-1
-Date: 2012-09-20
+Version: 0.1-2
+Date: 2013-09-20
 Title: Sampling Estimates
 Author: Emilio Lopez Escobar
 Maintainer: Emilio Lopez Escobar <emilio.lopez@itam.mx>
@@ -10,7 +10,7 @@ Classification/JEL: C13, C830
 Classification/ACM: G.3
 Depends: R (>= 3.0.0), samplingVarEst
 License: GPL (>= 2)
-Packaged: 2013-07-23 22:37:15 UTC; ELOPEZE
+Packaged: 2013-11-28 19:31:57 UTC; ELOPEZE
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-07-24 08:26:32
+Date/Publication: 2013-11-28 22:03:46
